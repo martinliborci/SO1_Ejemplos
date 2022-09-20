@@ -15,7 +15,7 @@ int main()
    scanf("%f", &num);
    
    root = sqrt(num);
-   printf("Square root of %.2f = %.2f", num, root);
+   printf("Square root of %.2f = %.2f \n", num, root);
   
   return 0;
 }
